@@ -20,6 +20,10 @@ body {
 
 ul {
   list-style-type: none;
+
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
 }
 
 a {
@@ -29,6 +33,14 @@ a {
 a:hover,
 a:focus {
   color: var(--pressed-state);
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 h1 {
