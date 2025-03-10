@@ -77,6 +77,10 @@ h3 {
   color: var(--dark-color);
 }
 
+img {
+  display: block;
+}
+
 .header {
   background-color: var(--accent-color);
 }
